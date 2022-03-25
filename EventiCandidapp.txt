@@ -8,10 +8,6 @@
 {
 "date":"2022/01/06",
 "event":"Epifania"
-},
-{
-"date":"2022/01/06",
-"event":"Befana"
 }
 ]
 }
